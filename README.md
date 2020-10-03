@@ -33,7 +33,7 @@
   </a>
   <br/>
   <a href="https://www.vecteezy.com/free-vector/icons">Icons Vectors by Vecteezy</a>
-  <h3 align="center">Data Relay</h3>
+  <h3 align="center">Temperature</h3>
   <p align="center">
     An ESP8266 12-E based crude infrared thermometer with a flutter app to get temperature over your home network or any domain over http requests.
     <br />
